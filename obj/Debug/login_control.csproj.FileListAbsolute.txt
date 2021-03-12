@@ -1,0 +1,11 @@
+C:\Users\Pankaj\source\repos\login_control\login_control\bin\Debug\login_control.exe.config
+C:\Users\Pankaj\source\repos\login_control\login_control\bin\Debug\login_control.exe
+C:\Users\Pankaj\source\repos\login_control\login_control\bin\Debug\login_control.pdb
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.csprojAssemblyReference.cache
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.Form1.resources
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.Form2.resources
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.Properties.Resources.resources
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.csproj.GenerateResource.cache
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.exe
+C:\Users\Pankaj\source\repos\login_control\login_control\obj\Debug\login_control.pdb
